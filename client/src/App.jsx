@@ -4,6 +4,7 @@ import NoPage from './pages/NoPage';
 import Home from './pages/Home';
 import SignUp from './pages/Signup';
 import Login from './pages/Login';
+import Editior from './pages/Editior';
 function App() {
 
   return (
@@ -14,6 +15,11 @@ function App() {
         <Route path="/signup" element={<SignUp/>}/>
         <Route path="/login" element={<Login/>}/>
         <Route path="*" element={<NoPage/>}/>
+        {/* <Route path='/editior/:projectID' element={isLoggedIn ? <Editior /> : <Navigate to="/login"/>} />
+         */}
+
+        <Route path='/editor/:projectID' element={<Editior />}/>
+
       </Routes>
     </BrowserRouter>
     </>

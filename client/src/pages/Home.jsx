@@ -22,9 +22,19 @@ function Home() {
         {isGridLayout?
         <div className="grid px-[100px]">
           <GridCard/>
+          <GridCard/>
+          <GridCard/>
+          <GridCard/>
+          <GridCard/>
+          <GridCard/>
+          <GridCard/>
+          <GridCard/>
+          <GridCard/>
         </div>
         :
         <div className="list px-[100px]">
+          <ListCard/>
+          <ListCard/>
           <ListCard/>
         </div>
         }
