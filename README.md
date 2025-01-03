@@ -1,5 +1,5 @@
 ![Blitz Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/logo.png)
-# Blitzcoder: An Online Code Editor
+# Webweaver: An Online Web Development Ide 
 
 ![output Logo](https://github.com/ShivanshKumar760/BlitzCoder/blob/master/finaloutput.png)
 
