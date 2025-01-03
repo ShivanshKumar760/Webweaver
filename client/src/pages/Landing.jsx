@@ -47,15 +47,12 @@ function Landing() {
     <div className="logos-slider">
         <div className="logo-card">
           <img src={htmlLogo} alt="HTML" className="logo-image" />
-          <p>HTML</p>
         </div>
         <div className="logo-card">
           <img src={cssLogo} alt="CSS" className="logo-image" />
-          <p>CSS</p>
         </div>
         <div className="logo-card">
           <img src={jsLogo} alt="JavaScript" className="logo-image" />
-          <p>JavaScript</p>
         </div>
       </div>
 
