@@ -42,9 +42,8 @@ function Navbar({setGrid}) {
     <>
       <div className="navbar flex items-center justify-between px-[100px] h-[103px] bg-[#141414]">
           <div className="logo">
-              <img className="w-[199px]  cursor-pointer" src={logoNav} alt="" />
+              <Link to="/dashboard"><img className="w-[199px]  cursor-pointer" src={logoNav} alt="" /></Link>
           </div>
-
           <div className="links flex items-center gap-2">
             <Link>About</Link>
             <Link>Contact</Link>
