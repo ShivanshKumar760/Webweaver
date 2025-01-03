@@ -1,7 +1,7 @@
 ![Blitz Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/logo.png)
 # Webweaver: An Online Web Development Ide 
 
-![output Logo](https://github.com/ShivanshKumar760/BlitzCoder/blob/master/finaloutput.png)
+![output Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/landingPageSC.png)
 
 
 **Webweaver**WebWeaver is an open-source, lightweight, and powerful online IDE for frontend designers and developers. It allows you to quickly build, test, and deploy frontend code using HTML, CSS, and JavaScript, all within your browser. With WebWeaver, you can write your code, see live previews, and experiment in real-time.It is built with React, Tailwind and powered by the Express.js backend restful api for authentication and  saving user code . It provides a seamless environment for developers to write, execute, and style their code directly in the browser.
