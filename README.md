@@ -1,4 +1,4 @@
-![Blitz Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/logo.png)
+![Webweaver Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/logo.png)
 # Webweaver: An Online Web Development Ide 
 
 ![output Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/landingPageSC.png)
