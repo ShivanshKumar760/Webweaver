@@ -1,4 +1,4 @@
-![Blitz Logo](https://github.com/ShivanshKumar760/BlitzCoder/blob/master/client/logo/blitz.png)
+![Blitz Logo](https://github.com/ShivanshKumar760/Webweaver/blob/master/client/src/images/logo.png)
 # Blitzcoder: An Online Code Editor
 
 ![output Logo](https://github.com/ShivanshKumar760/BlitzCoder/blob/master/finaloutput.png)
