@@ -11,4 +11,4 @@ export const removeClass = (el,className) => {
 };
 
 
-export const api_base_url = "https://webweaverapi.online/"
+export const api_base_url = "https://webweaverapi.online"
